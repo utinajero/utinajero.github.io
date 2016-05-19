@@ -5,9 +5,7 @@ date:   2016-05-19 8:07:34 -0700
 categories: jekyll update
 ---
 
-[Sign up][sophos-home] for Sophos Home people. It is free. 
-
-
+[Sign up][sophos-home] for Sophos Home people. It is free.
 
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
