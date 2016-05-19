@@ -5,9 +5,8 @@ permalink: /about/
 ---
 
 This site will be my first attempt at technology blog. Most likely I will be posting
-how to's. Hope it works out. 
+how to's. Hope it works out.
 
---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
 You can find the source code for the Jekyll new theme at:
