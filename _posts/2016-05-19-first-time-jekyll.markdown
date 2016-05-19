@@ -8,7 +8,7 @@ Unifi networks setup controller ubuntu 14.04
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby linenos %}
+{% highlight ruby %}
 sudo apt-get update
 sudo apt-get upgrade -y
 sudo timedatectl set-timezone America/Los_Angeles
