@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First time Jekyll!"
-date:   2016-05-18 12:07:34 -0700
+date:   2016-05-19 12:07:34 -0700
 categories: jekyll update
 ---
 Unifi networks setup controller ubuntu 14.04
