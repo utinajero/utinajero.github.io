@@ -5,7 +5,7 @@ date:   2016-05-19 8:07:34 -0700
 categories: jekyll update
 ---
 How to setup Unifi controller on ubuntu 14.04.
-Checkout [Unifi download page][unifi-download-page]
+Check out [Unifi download page][unifi-download-page]
 
 {% highlight ruby %}
 sudo apt-get update
