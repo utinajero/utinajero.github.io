@@ -4,8 +4,8 @@ title:  "How to install the unifi controller EASY!"
 date:   2016-05-19 8:07:34 -0700
 categories: jekyll update
 ---
-How to setup Unifi controller on ubuntu 14.04
-[This link](https://www.ubnt.com/download/unifi/)
+How to setup Unifi controller on ubuntu 14.04.
+[unifi download page]: https://www.ubnt.com/download/unifi/
 
 {% highlight ruby %}
 sudo apt-get update
