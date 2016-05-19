@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First time Jekyll!"
+title:  "How to install the unifi controller EASY!"
 date:   2016-05-19 8:07:34 -0700
 categories: jekyll update
 ---
